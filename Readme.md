@@ -1,4 +1,4 @@
-<h2 align="center"> <b>Hi/b> 👋</h2>
+<h2 align="center"> <b>HI👋</h2>
 <hr>
 <p align="center">
 I'm <b>Alejandro Calva</b>, a self-motivated tech enthusiast and full stack software developer.
